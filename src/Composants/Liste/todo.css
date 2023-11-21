@@ -1,0 +1,123 @@
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
+
+.App {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin-top:50px ;
+}
+
+h1 {
+  text-align: center;
+  color: #fcfeff;
+  background-color: #28a745;
+  margin: 0;
+  padding: 20px 0;
+  font-size: 24px;
+}
+
+/* Styles specific to elements inside .App */
+.App form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  
+}
+
+.App input[type="text"] {
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #28a745;
+  margin-bottom: 20px;
+  outline: none;
+  transition: border-bottom 0.3s ease;
+  
+}
+
+.App input[type="text"]:focus {
+  border-bottom: 2px solid #218838;
+  
+}
+
+.App button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.App button:hover {
+  background-color: #66ff87;
+}
+
+.App ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.App li {
+  border-bottom: 1px solid #dee2e6;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App li:last-child {
+  border-bottom: none;
+}
+
+.App li button {
+  background-color: #1e9002;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.App li button.edit {
+  background-color: #007bff;
+}
+
+.App li button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.App li input[type="text"] {
+  flex: 1;
+  margin-right: 8px;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  outline: none;
+}
+
+/* Add any additional styles specific to .App elements here */
+
+  
+  /* Add more styles as needed */
+  

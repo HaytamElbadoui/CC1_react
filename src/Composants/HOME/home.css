@@ -1,0 +1,12 @@
+.fluida{
+ 
+    justify-content: space-around;
+    flex-direction: row;
+}
+@media screen and (max-width: 800px) {
+    .fluida{
+     display: inline-block;
+    }
+   
+
+ }
