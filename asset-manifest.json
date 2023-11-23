@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/CC1_react/static/css/main.50acad09.css",
-    "main.js": "/CC1_react/static/js/main.e674721c.js",
+    "main.css": "/CC1_react/static/css/main.d3ab6597.css",
+    "main.js": "/CC1_react/static/js/main.63a2b143.js",
     "static/js/787.15b78e68.chunk.js": "/CC1_react/static/js/787.15b78e68.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/CC1_react/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/CC1_react/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/CC1_react/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/CC1_react/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/CC1_react/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "static/media/united-kingdom.svg": "/CC1_react/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
     "static/media/spain.svg": "/CC1_react/static/media/spain.32e1e4891a5c1d5ce79f04ec7671d151.svg",
     "index.html": "/CC1_react/index.html",
     "static/media/left-arrow.svg": "/CC1_react/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
     "static/media/right-arrow.svg": "/CC1_react/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
     "static/media/france.svg": "/CC1_react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
-    "main.50acad09.css.map": "/CC1_react/static/css/main.50acad09.css.map",
-    "main.e674721c.js.map": "/CC1_react/static/js/main.e674721c.js.map",
+    "main.d3ab6597.css.map": "/CC1_react/static/css/main.d3ab6597.css.map",
+    "main.63a2b143.js.map": "/CC1_react/static/js/main.63a2b143.js.map",
     "787.15b78e68.chunk.js.map": "/CC1_react/static/js/787.15b78e68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50acad09.css",
-    "static/js/main.e674721c.js"
+    "static/css/main.d3ab6597.css",
+    "static/js/main.63a2b143.js"
   ]
 }
